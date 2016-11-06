@@ -1,0 +1,9 @@
+c:\users\effikaz\documents\visual studio 2010\Projects\Semaphore\Semaphore\bin\Debug\Semaphore.exe
+c:\users\effikaz\documents\visual studio 2010\Projects\Semaphore\Semaphore\bin\Debug\Semaphore.pdb
+c:\users\effikaz\documents\visual studio 2010\Projects\Semaphore\Semaphore\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\effikaz\documents\visual studio 2010\Projects\Semaphore\Semaphore\obj\x86\Debug\Semaphore.exe
+c:\users\effikaz\documents\visual studio 2010\Projects\Semaphore\Semaphore\obj\x86\Debug\Semaphore.pdb
+C:\Users\Admin\Source\Repos\test\Semaphore\Semaphore\obj\x86\Debug\Semaphore.exe
+C:\Users\Admin\Source\Repos\test\Semaphore\Semaphore\obj\x86\Debug\Semaphore.pdb
+C:\Users\Admin\Source\Repos\test\Semaphore\Semaphore\bin\Debug\Semaphore.exe
+C:\Users\Admin\Source\Repos\test\Semaphore\Semaphore\bin\Debug\Semaphore.pdb

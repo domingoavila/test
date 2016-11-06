@@ -1,0 +1,4 @@
+C:\Users\davila\Desktop\delegado\prueba\bin\Debug\prueba.dll
+C:\Users\davila\Desktop\delegado\prueba\bin\Debug\prueba.pdb
+C:\Users\davila\Desktop\delegado\prueba\obj\Debug\prueba.dll
+C:\Users\davila\Desktop\delegado\prueba\obj\Debug\prueba.pdb
