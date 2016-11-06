@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Timers;
 
-namespace ConsoleApplication3
+namespace Timer
 {
-    class Program
+    class Timer
     {
         public static void Main()
         {

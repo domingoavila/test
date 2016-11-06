@@ -4,3 +4,7 @@ C:\Users\Admin\Desktop\delegado\Timer\obj\x86\Debug\ConsoleApplication3.exe
 C:\Users\Admin\Desktop\delegado\Timer\obj\x86\Debug\ConsoleApplication3.pdb
 C:\Users\davila\Desktop\delegado\Timer\obj\x86\Debug\ConsoleApplication3.exe
 C:\Users\davila\Desktop\delegado\Timer\obj\x86\Debug\ConsoleApplication3.pdb
+C:\Users\Admin\Source\Repos\test\Timer\bin\Debug\Timer.exe
+C:\Users\Admin\Source\Repos\test\Timer\bin\Debug\Timer.pdb
+C:\Users\Admin\Source\Repos\test\Timer\obj\x86\Debug\Timer.exe
+C:\Users\Admin\Source\Repos\test\Timer\obj\x86\Debug\Timer.pdb
