@@ -4,3 +4,8 @@ C:\Users\davila\Desktop\delegado\Thread2\obj\x86\Debug\Thread2.exe
 C:\Users\davila\Desktop\delegado\Thread2\obj\x86\Debug\Thread2.pdb
 C:\Users\Admin\Desktop\delegado\Thread2\obj\x86\Debug\Thread2.exe
 C:\Users\Admin\Desktop\delegado\Thread2\obj\x86\Debug\Thread2.pdb
+C:\Users\Admin\Source\Repos\test\Thread2\obj\x86\Debug\Thread2.exe
+C:\Users\Admin\Source\Repos\test\Thread2\obj\x86\Debug\Thread2.pdb
+C:\Users\Admin\Source\Repos\test\Thread2\bin\Debug\Thread2.exe
+C:\Users\Admin\Source\Repos\test\Thread2\bin\Debug\Thread2.pdb
+C:\Users\Admin\Source\Repos\test\Thread2\obj\x86\Debug\Thread2.csprojResolveAssemblyReference.cache

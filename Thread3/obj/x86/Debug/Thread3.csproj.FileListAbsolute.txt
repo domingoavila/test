@@ -6,3 +6,8 @@ C:\Users\Admin\Desktop\delegado\Thread3\obj\x86\Debug\Thread3.exe
 C:\Users\Admin\Desktop\delegado\Thread3\obj\x86\Debug\Thread3.pdb
 C:\Users\Admin\Desktop\delegado\Thread3\bin\Debug\Thread3.exe
 C:\Users\Admin\Desktop\delegado\Thread3\bin\Debug\Thread3.pdb
+C:\Users\Admin\Source\Repos\test\Thread3\obj\x86\Debug\Thread3.exe
+C:\Users\Admin\Source\Repos\test\Thread3\obj\x86\Debug\Thread3.pdb
+C:\Users\Admin\Source\Repos\test\Thread3\bin\Debug\Thread3.exe
+C:\Users\Admin\Source\Repos\test\Thread3\bin\Debug\Thread3.pdb
+C:\Users\Admin\Source\Repos\test\Thread3\obj\x86\Debug\Thread3.csprojResolveAssemblyReference.cache

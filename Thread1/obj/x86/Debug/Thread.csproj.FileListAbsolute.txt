@@ -6,3 +6,8 @@ C:\Users\Admin\Desktop\delegado\Thread\obj\x86\Debug\Thread.exe
 C:\Users\Admin\Desktop\delegado\Thread\obj\x86\Debug\Thread.pdb
 F:\DEV\C#\delegado\Thread1\obj\x86\Debug\Thread.exe
 F:\DEV\C#\delegado\Thread1\obj\x86\Debug\Thread.pdb
+C:\Users\Admin\Source\Repos\test\Thread1\obj\x86\Debug\Thread.exe
+C:\Users\Admin\Source\Repos\test\Thread1\obj\x86\Debug\Thread.pdb
+C:\Users\Admin\Source\Repos\test\Thread1\bin\Debug\Thread.exe
+C:\Users\Admin\Source\Repos\test\Thread1\bin\Debug\Thread.pdb
+C:\Users\Admin\Source\Repos\test\Thread1\obj\x86\Debug\Thread.csprojResolveAssemblyReference.cache
