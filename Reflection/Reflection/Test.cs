@@ -13,7 +13,7 @@ namespace ConsoleApplication2
         public static void Main(string[] args)
         {
             //Aseembly
-            Assembly testAssembly = Assembly.LoadFile(@"C:\Users\davila\Desktop\delegado\prueba\bin\Debug\prueba.dll");
+            Assembly testAssembly = Assembly.LoadFile(@"C:\Users\Admin\Source\Repos\test\Reflection\ReflectionClass\bin\Debug\ReflectionClass.dll");
             Type calcType = testAssembly.GetType("prueba.Calculator");
 
             //Public method
