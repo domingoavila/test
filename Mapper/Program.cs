@@ -14,9 +14,9 @@ namespace MapperSample
             var customerModel = new CustomerModel()
             {
                 ClientId = 1,
-                Name = "Julio",
-                LastName = "Avellaneda",
-                Email = "julito_gtu@hotmail.com",
+                fName = "Julio",
+                fLastName = "Avellaneda",
+                fEmail = "julito_gtu@hotmail.com",
                 CreationDate = DateTime.Now.ToString(),
                 Password = "123456"
             };

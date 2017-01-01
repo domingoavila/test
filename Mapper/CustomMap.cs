@@ -10,13 +10,13 @@ namespace MapperSample
     public class CustomMap: Profile
     {
 
-      public override string ProfileName { get { return "CustomDto"; } }
+      public override string ProfileName { get { return "CustomMap"; } }
       protected override void Configure()
         {
-            Mapper.CreateMap<CustomerModel,Customer>()
-                  .ForMember(d => d.Name, o => o.MapFrom(c => c.Name))
-                  .ForMember(d => d.LastName, o => o.MapFrom(c => c.LastName))
-                  .ForMember(d => d.Email, o => o.MapFrom(c => c.Email));
+            Mapper.CreateMap<CustomerModel, Customer>()
+                  //.ForMember(d => d.Name, o => o.MapFrom(c => c.Name))
+                  .ForMember(d => d.LastName, o => o.MapFrom(c => c.fLastName));
+                  //.ForMember(d => d.Email, o => o.MapFrom(c => c.Email));
         }
     }
 }

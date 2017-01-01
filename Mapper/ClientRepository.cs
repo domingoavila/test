@@ -15,6 +15,7 @@ namespace MapperSample
         public ClientRepository(IEnumerable<CustomerModel> customers)
         {
             _customers = customers;
+            Mapper.Initialize(c => c.AddProfile(new CustomMap()));
         }
 
         public ClientRepository()
@@ -26,9 +27,9 @@ namespace MapperSample
         {
             var customer = _customers.FirstOrDefault();
             //Define the mapping 
-            Mapper.CreateMap<CustomerModel, Customer>();
+            //Mapper.CreateMap<CustomerModel, Customer>();
             //Execute the mapping 
-            var clientViewModel = AutoMapper.Mapper.Map<Customer>(customer);
+            var clientViewModel = AutoMapper.Mapper.Map<CustomerModel,Customer>(customer);
             //Return a viewmodel 
             return clientViewModel;
         }
