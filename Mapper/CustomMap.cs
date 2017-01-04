@@ -14,9 +14,9 @@ namespace MapperSample
       protected override void Configure()
         {
             Mapper.CreateMap<CustomerModel, Customer>()
-                  //.ForMember(d => d.Name, o => o.MapFrom(c => c.Name))
-                  .ForMember(d => d.LastName, o => o.MapFrom(c => c.fLastName));
-                  //.ForMember(d => d.Email, o => o.MapFrom(c => c.Email));
+                  .ForMember(d => d.Name, o => o.MapFrom(c => c.fName))
+                  .ForMember(d => d.LastName, o => o.MapFrom(c => c.fLastName))
+                  .ForMember(d => d.Email, o => o.MapFrom(c => c.fEmail));
         }
     }
 }

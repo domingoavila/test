@@ -29,7 +29,7 @@ namespace MapperSample
             //Define the mapping 
             //Mapper.CreateMap<CustomerModel, Customer>();
             //Execute the mapping 
-            var clientViewModel = AutoMapper.Mapper.Map<CustomerModel,Customer>(customer);
+            var clientViewModel = Mapper.DynamicMap<CustomerModel,Customer>(customer);
             //Return a viewmodel 
             return clientViewModel;
         }
