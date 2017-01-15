@@ -44,7 +44,7 @@ namespace BasicDelegates
             Console.WriteLine("The number is: " + f(10, 20));
 
             // Delegate Anonymous 
-            MyDelegate f = delegate (int arg1, int arg2) {
+            f = delegate (int arg1, int arg2) {
                 return (arg1 + arg2).ToString();
             };
             Console.WriteLine("The nunber is: " + f(10, 20));
