@@ -1,7 +1,7 @@
 0|0|1|1
 0|1|1|Date|Clave|Fecha de Transferencia|19|0
 0|2|1|10
-1|3|1|1
-3|3|1|1
+1|3|1|0
+3|3|1|0
 0|4|1|https://raw.githubusercontent.com/riachile/master/setup.txt
 0|5|1|2
